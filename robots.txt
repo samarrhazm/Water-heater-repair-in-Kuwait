@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://water-heater-kuwait.vercel.app/sitemap.xml
